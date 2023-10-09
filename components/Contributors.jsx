@@ -54,15 +54,14 @@ function Contributors() {
 
 // Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+     {
+      id: "005",
+      name: "Abhishek Kumar Mishra",
+      img: "https://github.com/abhishekmishra421.img",
+      role: "App Development Contributor",
+      social1: "https://www.linkedin.com/in/abhishek-kumar-mishra-954266251/",
+      social2: "https://www.instagram.com/invites/contact/?i=k1df6g157m1s&utm_content=gycb4rn ",
+      desc: "Aspiring Jim Halpert" },
   ];
 
 
